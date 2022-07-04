@@ -37,7 +37,7 @@ export default function Home({ data }) {
         height="100px"
         alt="the fresh logo: a sliced lemon dripping with juice"
       />
-      <p class={tw`my-6 ring-1 rounded-full p-5 bg-gray-100`}>
+      <p class={tw`my-6 ring-1 rounded-full p-5 bg-green-100`}>
         Welcome to `fresh`. Try update this message in the ./routes/index.tsx
         file, and refresh.
       </p>
